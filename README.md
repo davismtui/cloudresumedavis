@@ -6,7 +6,7 @@ The Cloud Resume Challenge by Forrest Brazeal - [The Cloud Resume Challenge](htt
 
 ## Architecture
 
-![Architecture Diagram](Cloud Resume.png)
+![Architecture Diagram](/Cloud Resume.png)
 
 **Services Used**:
 
