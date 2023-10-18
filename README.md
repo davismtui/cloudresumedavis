@@ -19,5 +19,5 @@ The Cloud Resume Challenge by Forrest Brazeal - [The Cloud Resume Challenge](htt
 ## [Website 🔗](https://davismtui.online)
 
 ## Author
-- LinkedIn: [rishabkumar7](https://linkedin.com/in/davismtui)
+- LinkedIn: [davismtui](https://linkedin.com/in/davismtui)
   
